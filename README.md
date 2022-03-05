@@ -1,4 +1,5 @@
 ### Hi there 👋
+Sometimes I'm on private repo for secret mission👽. Soon will be public.
 
 <!--
 **goiPP/goiPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
